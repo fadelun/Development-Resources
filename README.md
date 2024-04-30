@@ -23,6 +23,7 @@ A collection of helpful and free dev resources.
 - [Material Icons](https://mui.com/material-ui/material-icons/)
 - [Unicons](https://iconscout.com/unicons)
 - [Font Awesome](https://fontawesome.com/icons)
+- [Lordicon](https://lordicon.com/)
 
 ### Images
 
@@ -36,6 +37,7 @@ A collection of helpful and free dev resources.
 - [Leonardo](https://leonardocolor.io/#)
 - [Coolors](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [ColorMagic](https://colormagic.app/)
 
 ### UI/UX
 
@@ -50,6 +52,7 @@ A collection of helpful and free dev resources.
 - [WebDesign Inspiration](https://www.webdesign-inspiration.com)
 
 ### Learning Resources
+
 - [Scrimba](https://scrimba.com)
 - [Udemy](https://www.udemy.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/)
